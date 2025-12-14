@@ -1,0 +1,4 @@
+msg="ashish";
+print(msg);
+
+
